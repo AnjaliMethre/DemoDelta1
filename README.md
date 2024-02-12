@@ -1,2 +1,2 @@
 # DemoDelta1
-my new proj
+This is my new Demo!
